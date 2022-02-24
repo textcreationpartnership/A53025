@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for raising six thousand pound [sic] for the payment of three hundred volunteers, and their officers, to be imployed in the re-inforcement of the frontiers of this province at Albany, from the first of May next, to the first of May then next following, in the year of our Lord, 1694</title>
+            <author>New York (State)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53025</idno>
+            <idno type="STC">Wing N823</idno>
+            <idno type="STC">ESTC R3503</idno>
+            <idno type="EEBO-CITATION">13574973</idno>
+            <idno type="OCLC">ocm 13574973</idno>
+            <idno type="VID">100435</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53025)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100435)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 797:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for raising six thousand pound [sic] for the payment of three hundred volunteers, and their officers, to be imployed in the re-inforcement of the frontiers of this province at Albany, from the first of May next, to the first of May then next following, in the year of our Lord, 1694</title>
+                  <author>New York (State)</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by William Bradford, printer to King William and Queen Mary, at the city of New-York,</publisher>
+                  <pubPlace>[New York] :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>At head of title: Anno regni Gulielmi &amp; Mariae, Regis &amp; Reginae, Angliae, Scotiae, Franciae &amp; Hiberniae quinto : the 10th of April, Anno Domini 1694.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Law and legislation --  New York (State) --  Early works to 1800.</term>
+               <term>New York (State) --  Militia --  Early works to 1800.</term>
+               <term>New York (State) --  History --  Colonial period, ca. 1600-1775 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:100435:1" rendition="simple:additions"/>
+            <head>Anno Regni Gulielmi &amp; Mariae, REGIS &amp; REGINAE, Angliae, Scotiae, Franciae &amp; Hiberniae, QUINTO.</head>
+            <opener>
+               <dateline>
+                  <date>The 10th of <hi>April, Anno Domini</hi> 1694.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>An Act for raiſing ſix Thouſand Pound for the payment of three Hundred Volunteers, and their Officers, to be imployed in the Re-inforcement of the Frontiers of this Province at <hi>Alb<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ny,</hi> from the firſt of <hi>May</hi> next, to the firſt of <hi>May</hi> then next following, in the Year of our Lord <hi>1694.</hi>
+               </p>
+            </argument>
+            <p>WHereas upon the firſt day of <hi>May</hi> next, the time doth expire, wherein the Forces lately raiſed for the defence of the Fron<g ref="char:EOLhyphen"/>tiers at <hi>Albany,</hi> were to abide, which continuing ſtill daily expoſed to the Attempts of the <hi>French,</hi> their Majeſties declared Enemies, it is of abſolute neceſſity that they ſhould from the ſaid time be well Re-inforced, not only for the Preſervation of this Province, but alſo for the Security and Defence of all their Majeſties Subjects in the adjacent Colonies. And to the end that the ſaid purpoſes may be well and truly effected, the Repreſentatives convened in General Aſſembly, do pray, that his Excellency would levy or cauſe to be levyed in this and the adjacent Collonies three hundred effectual Men, Volunteers, to be formed in four Companies of Souldiers, and imployed in their Majeſties ſervice, for the ſecurity and defence of the Frontiers of this Province at <hi>Albany,</hi> and there to continue during the time hereafter mentioned and expreſſed. That is to ſay, That his Excellency doth forth-with, upon publication hereof, raiſe, or cauſe to be raiſed, as aforeſaid, two hun<g ref="char:EOLhyphen"/>dred effectual men Volunteers, which are to be formed into four Com<g ref="char:EOLhyphen"/>panies of Souldiers, as aforeſaid, and imployed at <hi>Albany,</hi> for their Majeſties Service, as aforeſaid, and there to continue in the ſaid Service from the firſt day of <hi>May</hi> next, until the firſt day of <hi>May</hi> then next fol<g ref="char:EOLhyphen"/>lowing,
+<pb facs="tcp:100435:2" rendition="simple:additions"/>
+that ſhall be in the Year of our Lord One Thouſand Six Hun<g ref="char:EOLhyphen"/>dred-Ninety and Four. And alſo, That his Excellency ſhall likewiſe raiſe One Hundred effective Men Volunteers more, which ſhall likewiſe be added to the four Companies aforeſaid, in equal Proportion, and poſted at <hi>Albany,</hi> as aforeſaid, and there only to continue and remain from the firſt day of <hi>November</hi> next enſuing, until the fifteenth day of <hi>March</hi> then following, and no longer.</p>
+            <p>And that his Excellency may be the better enabled to make ſuch Levys as aforeſaid, the Repreſentatives convened in general Aſſembly, do pray that it may be Enacted, And be it therefore Enacted by the Governour and Council, and Repreſentatives convened in general Aſſembly, and by the Authority of the ſame, That a Levy of Six Thouſand Pounds currant Money of this Province be laid, aſſeſſed, raiſed and levyed upon all and every of the Inhabitants, Reſidents and Free holders of and in this Province, <hi>&amp;c.</hi> for the paying and maintaining of the ſaid three hundred Volunteers, and their Officers, together with the incidental Charges that ſhall ariſe thereon, according to the Eſtabliſhment here<g ref="char:EOLhyphen"/>unto annexed, and not otherwiſe, and for no other uſe, intent or purpoſe whatſoever.</p>
+            <p>To be laid, aſſeſſed, raiſed and levyed in each reſpective City and County, throughout the Province, according to the Rates, Quota's and Proportions hereafter following; that is to ſay,</p>
+            <p>For the City and County of <hi>New-York,</hi> One Thouſand Four Hundred and Fifty Pounds, being their Quota and Proportion of the Levy of Six Thouſand Pounds aforeſaid.</p>
+            <p>For the County of <hi>Suffolk,</hi> in the Iſland of <hi>Naſſaw,</hi> Twelve Hundred Pounds, being their Quota and Proportion, as aforeſaid.</p>
+            <p>For <hi>Queens County,</hi> in the Iſland of <hi>Naſſaw,</hi> One Thouſand Pounds, being their Quota and Proportion, as aforeſaid.</p>
+            <p>For <hi>Kings County,</hi> in the ſaid Iſland of <hi>Naſſaw,</hi> Nine Hundred Pounds, being their Quota and Proportion, as aforeſaid.</p>
+            <p>For the County of <hi>Weſtchêſter</hi> Five Hundred and Sixty Pounds, being their Quota and Proportion, as aforeſaid.</p>
+            <p>For the County of <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> and <hi>Dutches County,</hi> Six Hundred &amp; Thirty Pounds, being their Quota and Proportion, as aforeſaid.</p>
+            <p>For the County of <hi>Richmond,</hi> Two Hundred and Thirty Pounds, being their Quota and Proportion, as aforeſaid.</p>
+            <p>And for the County of <hi>Orange</hi> Thirty Pounds, being their Quota and Proportion, as aforeſaid.</p>
+            <p>All which Quota's and Proportions, as aforeſaid, doth in the whole amount unto the Sum of Six Thouſand Pounds currant Money afore<g ref="char:EOLhyphen"/>ſaid, which ſaid Sum of Six Thouſand Pound ſhall well and truely be paid by the reſpective Collectors of each reſpective City and County aforeſaid, unto their Majeſties Collector and Receiver General for the time being, at their Majeſties Cuſtom Houſe in the City of <hi>New-York,</hi> in two equal Payments, that is to ſay, Three Thouſand Pounds currant Money as aforeſaid, being the one moiety or equal half part of the ſaid
+<pb facs="tcp:100435:2" rendition="simple:additions"/>
+Thouſand Pounds, at or before the nine and twentieth day of <hi>September</hi> next, being the Feaſt Day of <hi>St. Michael</hi> the Arch-Angel. And the other three Thouſand Pounds currant Money aforeſaid, being the other moiety or equal half part of the Levy aforeſaid, at or before the twenty fifth day of <hi>March</hi> then next following, being the Feaſt day of the <hi>Anunciation</hi> of the bleſſed Virgin <hi>Mary,</hi> which ſhall be in the Year of our Lord One Thouſand Six Hundred Ninety and Four, under the pains and penalties herein after mentioned.</p>
+            <p>And that the ſaid Sum of Six Thouſand Pounds, according to the Quota's and Proportions aforeſaid, may be moſt truely and effectually aſſeſſed, raiſed, collected and paid unto their Majeſties Receiver General, in manner aforeſaid and for the intent and purpoſes aforeſaid, <hi>Be it further Enacted,</hi> and it is hereby further Enacted by the Authority aforeſaid, That the Mayor and Aldermen within this City of <hi>New-York,</hi> for the time being, and the Juſtices of the Peace for the time being, for the ſeveral and reſpective Counties aforeſaid, for the ſeveral Counties reſpectively, for the which they ſhall be Juſtices of the Peace, do within forty days after Publication hereof, aſſemble and meet together in the Court Houſes, for the ſeveral reſpective Cities and Counties, or ſuch other place or places as they ſhall agree upon amongſt themſelves, and ſhall there order that Aſſeſſors and Collectors for the ſeveral and reſpective Cities, Towns, Mannors, and Liberties within their ſeveral Juriſdictions, for the aſſeſſing, collecting and receiving of the publick Rates, for the defraying the publick and neceſſary Charges of each reſpective City and County aforeſaid, be the Aſſeſſors and Collectors for the aſſeſſing, collecting and receiving the ſum or ſums of Money herein before-mentioned, according to the proportions before expreſſed, as to the ſaid Mayor and Alder-men and Juſtices ſhall ſeem meet and reaſonable.</p>
+            <p>And foraſmuch as there are ſeveral Mannors and Juriſdictions within the reſpective Countries aforeſaid, who neglect, and do not elect annually or once every Year Aſſeſſors and Collectors, whereby the intent of this Act may be fruſtrated, Be it therefore Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That if the reſpective Mannors and Juriſdictions within the ſeveral Counties aforeſaid, ſhall refuſe or neglect to elect Aſſeſſors &amp; Collectors for the aſſeſſing of their reſpective Mannors and Juriſdictions, and for the collecting the ſame, according to the intent and direction of this Act, then and in ſuch caſe the Juſtices of the Peace of the Counties where ſuch Mannors or Juriſdictions are, are hereby impowered and authorized to nominate and appoint Aſſeſſors and Collectors for ſuch Mannors and Juriſdictions as ſhall neglect or refuſe as aforeſaid; which Aſſeſſors and Collectors ſhall to all intents and purpoſes obſerve the directions of this Act, any thing contained herein to the contrary here<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in any wiſe notwithſtanding.</p>
+            <p>
+               <pb facs="tcp:100435:3"/>And be it further Enacted by the Authority aforeſaid, That the ſaid Mayor, Aldermen and Juſtices of the Peace for the reſpective Cities and Counties, Mannors and Juriſdictions have and ſhall have Power and Authority by virtue of this Act, each of them by himſelf to adminiſter an Oath to the ſaid Aſſeſſors, <hi>Well, Truly, Equally and Impartially, and in due Proportion, as it ſhall appear to them, according to their beſt <g ref="char:V">Ʋ</g>nderſtand<g ref="char:EOLhyphen"/>ing, to aſſeſs and rate the Inhabitants, Reſidents &amp; Free-holders of the reſpective places for which they ſhall be choſen Aſſeſſors.</hi>
+            </p>
+            <p>And be it Enacted by the Authority aforeſaid, That if any perſon or perſons who ſhall be choſen Aſſeſſors or Collectors, ſhall deny, neglect, or unequally, or partially aſſeſs, or refuſe to make ſuch Aſſeſsment, as by this Act is required, or ſhall deny, neglect or refuſe to collect any Sum or Sums of Money, in form afore-mentioned aſſeſt, that then and in ſuch caſe, it ſhall and may be lawful for any two Juſtices of the Peace of the Cities and Counties where ſuch Offenders ſhall happen to dwell or reſide, &amp; who by virtue of this Act, are required and impower<g ref="char:EOLhyphen"/>ed to do the ſame by Warrant under their Hands and Seals, to commit ſuch Aſſeſſor or Aſſeſſors, Collector or Collectors ſo denying, neglect<g ref="char:EOLhyphen"/>ing or unequally and partially aſſeſſing, or refuſing to collect, as a foreſaid, to the common Goal, there to remain without Bayl or Mainprize till he or they make Fine and Ranſom to their Majeſties, for ſuch Contempt, as aforeſaid.</p>
+            <p>And be it further enacted by the Authority aforeſaid, That if any Perſon or Perſons, of what Degree or Quality ſoever he or they be, within this Province, who ſhall be aſſeſſed or rated any ſum or ſums of Money by virtue of this Act to be raiſed and levyed, ſhall deny, refuſe or delay to pay and ſatify the ſame, that then it ſhall and may be law<g ref="char:EOLhyphen"/>ful for any ſuch Collector, by Virtue of a Warrant under the Hand and Seal of any Juſtice of the Peace for the City or County where ſuch Offender ſhall dwell or reſide, who by Virtue of this Act are Required and Authorized to grant and iſſue forth ſuch Warrant, to levy the ſame by Diſtreſs and Sale of ſuch Perſon or Perſons Goods and Chattles, re<g ref="char:EOLhyphen"/>turning the Over-plus, if any be, to the Owners, the Sum aſſeſſed, and Charges of Diſtreſs and Sale being firſt deducted. And that where any of the Goods and Chattels ſhall be diſtrained for any of the Aſſeſments and Rates aforeſaid, and the Owner of the ſaid Goods ſhall not within five days next after ſuch Diſtreſs taken, and notice thereof, with the cauſe of ſuch taking left at the Houſe, or other moſt known place where the diſtreſs was made, come and pay to the Collector and Receiver of the Aſſeſſment aforeſaid, that then after ſuch Diſtreſs, and notice as afore<g ref="char:EOLhyphen"/>ſaid, and expiration of the ſaid five days, the Collector, or perſon di<g ref="char:EOLhyphen"/>ſtraining ſhall and may cauſe the Goods and Chattels ſo diſtrained, to be appraiſed by two ſworn Appraiſers, to appraiſe the ſame truely, according to the beſt of their Underſtandings, and after ſuch appraiſement ſhall and may lawfully carry and drive the ſaid Goods and Chattels ſo
+<pb facs="tcp:100435:3" rendition="simple:additions"/>
+diſtrained, into any County or Town throughout the Province, and the ſaid Goods and Chattels ſhall and may there lawfully ſell for the beſt Price can be gotten for the ſame, toward ſatisfaction of the Rates afore<g ref="char:EOLhyphen"/>ſaid, and of the Charges of ſuch Diſtreſs, Appraiſement and Sale, giving the Over-plus to the Owners.</p>
+            <p>And alſo, be it further Enacted by the Authority aforeſaid, That if any Mayor, Alderman or Juſtice of the Peace within this Province, who are hereby Required, Impowered and Authorized to take effectual care that this Act, and every Article and Clauſe therein be duely executed, according to the true intent and meaning thereof, ſhall deny, neglect, refuſe or delay to do, perform, fullfill and execute all and every or any the Duties, Powers and Authorities, by this Act required and im<g ref="char:EOLhyphen"/>powered, by him or them to be done, performed, fullfilled and executed, and ſhall thereof be convicted before the Governour and Council, or before any of their Majeſties Courts of Record within this Province, he or they ſhall ſuffer ſuch pain, by Fine and Impriſonment, as by the diſcretion of the ſaid Governor and Council, and the Juſtices of the ſaid Courts, ſhall be adjudged.</p>
+            <p>And be it further enacted by the Authority aforeſaid, That if any Action, Bill, Plaint or Information ſhall be brought, moved or proſe<g ref="char:EOLhyphen"/>cuted at any time hereafter againſt any Perſon or Perſons, for any Matter, Clauſe or Thing, done or acted in purſuance or execution of this Act, ſuch Perſon or Perſons ſo ſued or proſecuted in any Court whatſoever, ſhall and may plead the general Iſſue, <hi>Not Guilty,</hi> and give this Act, and the ſpecial Matter in Evidence; and if the Plantiff or Proſecutor ſhall be Non-ſuited, or forbear further Proſecution, or ſuffer Diſcon<g ref="char:EOLhyphen"/>tinuance or Verdict to paſs againſt him, the Defendant or Defendants ſhall recover Treble Coſts, for which they ſhall have the like Remedy, as in caſe where Coſts by the Law are given to Defendants.</p>
+            <p>Provided always, That no Major, Alder-man or Juſtice of the Peace ſhall be troubled, ſued, proſecuted or moleſted for any Omiſſion, Offence or Neglect by virtue of this Act, but within the ſpace of one year after ſuch Omiſſion, Offence of Neglect, and not at any Time here<g ref="char:EOLhyphen"/>after, any thing contained herein to the contrary hereof in any wiſe not<g ref="char:EOLhyphen"/>withſtanding.</p>
+            <p>Alwayes provided, and be it further Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That the ſeveral Collectors of each reſpective City and County, as aforeſaid, ſhall have liberty to pay the ſeveral and reſpective Sums aſſeſſed, as aforeſaid, at the day aforeſaid, in currant Money at <hi>New-York,</hi> or for want thereof in good ſufficient and merchantable Proviſions, at the Rates and Prices hereafter ſpecified and expreſſed, to wit, good mer<g ref="char:EOLhyphen"/>chantable Pork at the Rates of fifty Shillings <hi>per</hi> Barrel, the Barrel well repacked by the ſworn Packer at <hi>New-York,</hi> and the Barrell containing Thirty One Gallons and half, <hi>Wincheſter</hi> Meaſure, at leaſt. Beef at the Rate of Thirty Two Shillings and Six Pence <hi>per</hi> Barrel, well repackt by
+<pb facs="tcp:100435:4"/>
+the ſworn Packer of <hi>New-York,</hi> aforeſaid, the Barrel to contain thirty one Gallons and a half, <hi>Wincheſter</hi>-Meaſure, at leaſt. Good merchantable Winter Wheat at four Shillings <hi>per</hi> Buſhel. Tryed Tallow at four pence half penny <hi>per</hi> Pound.</p>
+            <p>Provided always, and be it further Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That if it ſhould ſo happen that his Excellency, purſuant to the Limitations aforeſaid, could not effect to raiſe ſo many Volunteers in manner aforeſaid, but that for the intent aforeſaid his Excellency ſhould be conſtrained to make proportionable Detachments in the reſpective Cities and Counties within this Province, to compleat the Number of the Forces, as aforeſaid, then it is the true intent and meaning of this Act, that there ſhall only be allowed &amp; paid unto ſuch perſon or perſons ſo detached as aforeſaid, for the ſervice aforeſaid, the ſum of Eight Pence <hi>per Diem</hi> for each Perſon ſo imployed as aforeſaid, and no more, any thing contained herein, or mentioned in the Eſtabliſhment hereunto annexed, in any wayes to the contrary hereof notwithſtanding.</p>
+            <div type="part">
+               <head>An Eſtabliſhment for the paying of the Officers and Souldiers, together with the incidental Charges, which are to be raiſed for the Reinforcement of <hi>Albany, &amp;c.</hi> from the firſt day of <hi>May, 1693.</hi> until the firſt day of <hi>May. 1694.</hi>
+               </head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">l.</cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                     </row>
+                     <row>
+                        <cell>Four Captains at 8 <hi>s. per Diem</hi>
+                        </cell>
+                        <cell>01</cell>
+                        <cell>12</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Four Lieutenants at 4 <hi>s. per Diem</hi>
+                        </cell>
+                        <cell>00</cell>
+                        <cell>16</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Four Lieutenants at 3 <hi>s. per Diem</hi>
+                        </cell>
+                        <cell>00</cell>
+                        <cell>12</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>One Chyrurgion at 2 <hi>s.</hi> 6 <hi>d. per Diem</hi>
+                        </cell>
+                        <cell>00</cell>
+                        <cell>02</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell>One Commiſſiary for the Stores <hi>per diem</hi>
+                        </cell>
+                        <cell>00</cell>
+                        <cell>02</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell>One Commiſſiary for Muſter <hi>per Diem</hi>
+                        </cell>
+                        <cell>00</cell>
+                        <cell>02</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell>Twelve Sergeants at 1 <hi>s.</hi> 6 <hi>d. per diem</hi>
+                        </cell>
+                        <cell>00</cell>
+                        <cell>18</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Twelve Corporals at 1 <hi>s. per diem</hi>
+                        </cell>
+                        <cell>00</cell>
+                        <cell>12</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Four Drums at 1 <hi>s per diem</hi>
+                        </cell>
+                        <cell>00</cell>
+                        <cell>04</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Four Clerks at 1 <hi>s. per diem</hi>
+                        </cell>
+                        <cell>00</cell>
+                        <cell>04</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Four Montroſſes at 1 <hi>s. per diem</hi>
+                        </cell>
+                        <cell>00</cell>
+                        <cell>04</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>164 private Centinels at 1 <hi>s. per diem</hi>
+                        </cell>
+                        <cell>08</cell>
+                        <cell>04</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>13</cell>
+                        <cell>13</cell>
+                        <cell>06</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">l.</cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                     </row>
+                     <row>
+                        <cell>For 365 days 13 <hi>l.</hi> 13 <hi>s.</hi> 06 <hi>d.</hi> is</cell>
+                        <cell>4991</cell>
+                        <cell>07</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell>100 private Centinels for 135 days at 12 <hi>d.</hi>
+                        </cell>
+                        <cell>675</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>One Town Major for 365 dayes at 4 <hi>s.</hi>
+                        </cell>
+                        <cell>073</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Incidental Charges</cell>
+                        <cell>260</cell>
+                        <cell>12</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell role="total">The Totall</cell>
+                        <cell>6000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed and Sold by <hi>William Bradford,</hi> Printer to King <hi>William</hi> and Queen <hi>Mary,</hi> at the City of <hi>New-York,</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
